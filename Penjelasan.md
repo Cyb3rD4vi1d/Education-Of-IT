@@ -1,7 +1,7 @@
 
 ---
 
-##🔐 **Apa itu Cyber Security atau Keamanan Siber?**
+## 🔐 Apa itu Cyber Security atau Keamanan Siber?
 
 **Cyber Security** atau **Keamanan Siber** adalah bidang yang berfokus pada perlindungan **perangkat, jaringan, sistem, aplikasi, dan data** dari ancaman digital. Di era modern, hampir semua aktivitas menggunakan teknologi, sehingga keamanan siber menjadi hal yang sangat penting untuk menjaga stabilitas, privasi, 
 ---
